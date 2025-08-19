@@ -10,3 +10,6 @@ MarkupSafe==3.0.2
 SQLAlchemy==2.0.41
 typing_extensions==4.14.0
 Werkzeug==3.1.3
+git add requirements.txt
+git commit -m "Add gunicorn to requirements"
+git push https://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@github.com/evertonerleao/sistema-torneio-backend.git main
